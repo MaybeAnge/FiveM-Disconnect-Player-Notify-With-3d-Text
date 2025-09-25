@@ -4,7 +4,7 @@ A simple and lightweight FiveM resource to display 3D floating text for player e
 ## 📹 Demonstration video
 
 <p align="center">
-  <a href="https://youtu.be/QAnAt_eD2yQ">
+  <a href="https://www.youtube.com/watch?v=QB0WcXQ3hoc">
     <img src="https://img.youtube.com/vi/QB0WcXQ3hoc/0.jpg" alt="Vidéo YouTube" width="480"/>
   </a>
 </p>
